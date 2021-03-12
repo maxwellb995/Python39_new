@@ -11,3 +11,8 @@ if __name__ == '__main__':
     print("I hope this makes it into GitHub4")
     print("I hope this makes it into GitHub5")
 
+    my_list = ['a', 'b', 'c']
+
+    for x in my_list:
+        print(x)
+
